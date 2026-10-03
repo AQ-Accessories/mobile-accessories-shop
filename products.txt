@@ -1,0 +1,441 @@
+PRODUCT 1
+
+Name:
+40 W Quick Charger 4.0
+
+Price:
+800
+
+Category:
+Chargers
+
+Description:
+Power up your devices at lightning speed with this premium 40W PD Quick Charger! It lets you safely fast-charge your compatible devices without losing a single watt of performance.
+
+Image filename:
+QuickCharger-40W-Yellow.jpg
+
+PRODUCT 2
+
+Name:
+SUPER VOOC CHARGER
+
+Price:
+800
+
+Category:
+Chargers
+
+Description:
+Experience true hyper-speed charging with our tested SuperVOOC fast charger brick! Built to deliver maximum, stable power safely to your compatible devices, it eliminates long waiting times so you stay connected all day.
+
+Image filename:
+Super-VOOC-White.jpg
+
+PRODUCT 3
+
+Name:
+SAMSUNG 25W ADAPTER USB-C
+
+Price:
+750
+
+Category:
+Chargers
+
+Description:
+Fast-charge your smartphones and other Type-C devices with this reliable 25W power adapter. Its compact design makes it perfect for travel while ensuring safe and efficient charging.
+
+Image filename:
+Samsung-25W-Adapter.jpg
+
+PRODUCT 4
+
+Name:
+CHINA 3 iN 1 ADAPTOR
+
+Price:
+1000
+
+Category:
+Adapters
+
+Description:
+Maximize your charging capability with this versatile 3-in-1 multi-port adapter. Designed for convenience, it allows you to connect and power multiple devices simultaneously from a single wall outlet.
+
+Image filename:
+China-3in1-Adaptor.jpg
+
+PRODUCT 5
+
+Name:
+3 iN 1 FAST DATA CABLE
+
+Price:
+400
+
+Category:
+Cables
+
+Description:
+Keep all your devices synced and charged with this stylish pink 3-in-1 fast data cable. Featuring multiple connectors, it provides high-speed data transfer and incredible durability for everyday use.
+
+Image filename:
+3in1-Fast-Data-Cable-Pink.jpg
+
+PRODUCT 6
+
+Name:
+DATA CABLE FIBER SUPER FAST
+
+Price:
+350
+
+Category:
+Cables
+
+Description:
+Experience blazing-fast charging and data syncing with this blue fiber-braided data cable. The reinforced fiber exterior ensures maximum durability and prevents frustrating tangles.
+
+Image filename:
+Fiber-Super-Fast-Cable-Blue.jpg
+
+PRODUCT 7
+
+Name:
+DATA CABLE HIGH SPEED MK
+
+Price:
+400
+
+Category:
+Cables
+
+Description:
+A sleek and robust black high-speed data cable designed for quick file transfers and rapid charging. Its premium build guarantees a secure connection every single time.
+
+Image filename:
+MK-High-Speed-Cable-Black.jpg
+
+PRODUCT 8
+
+Name:
+Original Air BUDS Pro
+
+Price:
+1800
+
+Category:
+Audio
+
+Description:
+Enjoy crystal-clear audio and seamless wireless connectivity with these minimalist white Air Buds. Ergonomically designed for a comfortable fit, they are the perfect companion for music, calls, and workouts.
+
+Image filename:
+Air-Buds-White.jpg
+
+PRODUCT 9
+
+Name:
+ANC TWS WIRELESS EARBUDS
+
+Price:
+1500
+
+Category:
+Audio
+
+Description:
+Immerse yourself in your favorite tunes with Active Noise Cancelling (ANC) True Wireless Stereo earbuds. Block out daily distractions and experience high-fidelity sound on the go.
+
+Image filename:
+ANC-TWS-Earbuds.jpg
+
+PRODUCT 10
+
+Name:
+ANC/ENC BUDS PRO 5 (SILVER COLOUR)
+
+Price:
+1800
+
+Category:
+Audio
+
+Description:
+Upgrade your listening experience with the Buds Pro 5 in a sleek silver finish. Featuring both Active and Environmental Noise Cancellation (ANC/ENC) for pristine audio clarity during calls and music playback.
+
+Image filename:
+Buds-Pro-5-Silver.jpg
+
+PRODUCT 11
+
+Name:
+GOLD SHANDE / ANC-ENC BUDS PRO 3
+
+Price:
+1800
+
+Category:
+Audio
+
+Description:
+Stand out with the premium Gold Shande Buds Pro 3. Equipped with advanced ANC and ENC technology, these earbuds deliver exceptional sound quality paired with a luxurious, stylish aesthetic.
+
+Image filename:
+Gold-Shande-Buds-Pro3.jpg
+
+PRODUCT 12
+
+Name:
+Air BUDS PRO 7 ANC/ENC DOUBLE DARK
+
+Price:
+1800
+
+Category:
+Audio
+
+Description:
+Dive into deep bass and rich acoustics with the Air Buds Pro 7 in a stunning Double Dark finish. Dual noise-cancellation tech ensures your calls and music remain completely uninterrupted in any environment.
+
+Image filename:
+Air-Buds-Pro7-Dark.jpg
+
+PRODUCT 13
+
+Name:
+Air BUDS M10 V5.3 BT WIRELESS
+
+Price:
+1200
+
+Category:
+Audio
+
+Description:
+Stay connected flawlessly with the latest Bluetooth 5.3 technology in the M10 Wireless Air Buds. Enjoy ultra-low latency, extended battery life, and superior sound quality for all your media.
+
+Image filename:
+Air-Buds-M10.jpg
+
+PRODUCT 14
+
+Name:
+U 39 Air BUDS
+
+Price:
+1500
+
+Category:
+Audio
+
+Description:
+Discover lightweight comfort and impressive audio performance with the U 39 Air Buds. Perfect for daily commutes or intense gym sessions, offering a secure fit and reliable wireless streaming.
+
+Image filename:
+U39-Air-Buds.jpg
+
+PRODUCT 15
+
+Name:
+MINI SPEAKER WS-887
+
+Price:
+1000
+
+Category:
+Audio
+
+Description:
+Bring the party anywhere with the ultra-portable WS-887 Mini Speaker. Despite its compact size, it delivers surprisingly loud, punchy audio and features a rugged design for outdoor adventures.
+
+Image filename:
+WS887-Mini-Speaker.jpg
+
+PRODUCT 16
+
+Name:
+DATA CABLE VIVID
+
+Price:
+350
+
+Category:
+Cables
+
+Description:
+Add a splash of color to your daily charging routine with the Vivid Data Cable. Engineered for fast, stable charging and secure data syncing without compromising on personal style.
+
+Image filename:
+Vivid-Data-Cable.jpg
+
+PRODUCT 17
+
+Name:
+DATE CABLE 4 iN 1 FAST SPEED BLACK COLOUR
+
+Price:
+450
+
+Category:
+Cables
+
+Description:
+The ultimate all-in-one charging solution! This 4-in-1 fast-speed black cable supports multiple device types simultaneously, eliminating the need to carry a tangled mess of cords in your bag.
+
+Image filename:
+4in1-Fast-Cable-Black.jpg
+
+PRODUCT 18
+
+Name:
+CHARGER QUICK G 2023
+
+Price:
+400
+
+Category:
+Chargers
+
+Description:
+Get back to full power swiftly with the Quick G 2023 Charger. Designed for optimal efficiency, this compact wall adapter provides stable and rapid charging for your most essential daily devices.
+
+Image filename:
+Quick-G-2023-Charger.jpg
+
+PRODUCT 19
+
+Name:
+HAND FREE UNIVERSAL B-42
+
+Price:
+350
+
+Category:
+Audio
+
+Description:
+Enjoy universal compatibility and crisp audio with the B-42 wired hands-free earphones. Featuring a built-in inline microphone for clear calls and a comfortable in-ear fit for prolonged use.
+
+Image filename:
+Universal-Handfree-B42.jpg
+
+PRODUCT 20
+
+Name:
+SELFI STICK OSANI TRIPOD / HOLDER
+
+Price:
+1200
+
+Category:
+Accessories
+
+Description:
+Capture the perfect angle every time with this versatile Osani selfie stick and tripod hybrid. Featuring a sturdy, adjustable holder, it is the ideal tool for vlogging, group photos, and hands-free video calls.
+
+Image filename:
+Osani-Selfie-Tripod.jpg
+
+PRODUCT 21
+
+Name:
+HEAD PHONE P9
+
+Price:
+1500
+
+Category:
+Audio
+
+Description:
+Step up your audio game with the P9 over-ear headphones. Designed for an immersive listening experience and all-day comfort, featuring plush ear cushions and a dynamic, heavy bass response.
+
+Image filename:
+P9-Headphones.jpg
+
+PRODUCT 22
+
+Name:
+SPEAKER MULTI MEDIA 2.0 HT-09A COMPUTER SPEAKER
+
+Price:
+1500
+
+Category:
+Audio
+
+Description:
+Enhance your desktop workstation setup with the HT-09A Multimedia 2.0 Computer Speakers. Deliver clear, room-filling stereo sound for your movies, games, and music directly from your PC or laptop.
+
+Image filename:
+HT09A-Computer-Speaker.jpg
+
+PRODUCT 23
+
+Name:
+PORTABLE WIRELESS SPEAKER KTS 2259 SOLAR CHARGING
+
+Price:
+1600
+
+Category:
+Audio
+
+Description:
+Take your music completely off the grid with the KTS 2259 portable speaker. Featuring integrated solar charging capability, this eco-friendly wireless speaker ensures the tunes keep playing even when you're far away from a wall outlet.
+
+Image filename:
+KTS2259-Solar-Speaker.jpg
+
+PRODUCT 24
+
+Name:
+WIRELESS SPEAKER 4" SOLAR CHARGING KBROAD KTS-1706
+
+Price:
+2200
+
+Category:
+Audio
+
+Description:
+Power up your outdoor parties with the K Broad KTS-1706 4-inch wireless speaker. Boasting robust sound and a built-in solar panel on the back, it provides endless entertainment powered purely by the sun.
+
+Image filename:
+KTS1706-Solar-Speaker.jpg
+
+PRODUCT 25
+
+Name:
+HEAD PHONE P47 5.0 EDR
+
+Price:
+1100
+
+Category:
+Audio
+
+Description:
+Enjoy wireless freedom and punchy bass with the stylish P47 folding headphones. Equipped with Bluetooth 5.0 EDR for a highly stable connection and a space-saving foldable design for effortless transport.
+
+Image filename:
+P47-Headphones.jpg
+
+PRODUCT 26
+
+Name:
+CHARGER 3.0 BLACK QUALCOMM
+
+Price:
+800
+
+Category:
+Chargers
+
+Description:
+Turbocharge your smartphone with the Qualcomm Quick Charge 3.0 black wall adapter. Engineered to deliver rapid, safe, and highly efficient power to all your compatible QC 3.0 electronic devices.
+
+Image filename:
+Qualcomm-QC3-Charger-Black.jpg
