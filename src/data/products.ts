@@ -221,6 +221,30 @@ const rawProducts: Omit<Product, 'slug' | 'video'>[] = [
     "category": "Gaming",
     "description": "Improve your touchscreen accuracy and reduce friction with these dedicated mobile gaming finger sleeves. The black sleeves feature a lightweight, breathable design to keep your fingers primed for intense competitive gameplay.",
     "imageFilename": "mobile-gaming-finger-sleeve.jpg"
+  },
+  {
+    "id": "28",
+    "name": "M9s Wireless Earbuds",
+    "price": 1500,
+    "category": "Audio",
+    "description": "These classic white, true wireless earbuds come packaged with a matching compact charging case. The sleek, stem-style M9s design offers a convenient, cable-free listening experience for daily media consumption and calls.",
+    "imageFilename": "m9s-wireless-earbuds.jpg"
+  },
+  {
+    "id": "29",
+    "name": "C-type Music World Stereo Earphone",
+    "price": 500,
+    "category": "Audio",
+    "description": "A pair of high-quality wired stereo earphones featuring a durable, translucent textured cable. Designed for hands-free use, these in-ear headphones provide a reliable plug-and-play audio solution.",
+    "imageFilename": "c-type-music-world-stereo-earphone.jpg"
+  },
+  {
+    "id": "30",
+    "name": "10000mAh Super Fast Charge Power Bank",
+    "price": 2000,
+    "category": "Audio",
+    "description": "A high-capacity 10,000mAh portable charger built for travel, featuring swift two-way fast charging and aircraft safety compliance. The device includes a convenient digital LED display on the front showing remaining battery levels at 25, 50, 75, and 100 percent.",
+    "imageFilename": "10000mah-super-fast-charge-power-bank.jpg"
   }
 ];
 
