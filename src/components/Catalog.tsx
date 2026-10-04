@@ -7,7 +7,7 @@ import { ProductGrid } from './ProductGrid';
 import { CategoryFilter } from './CategoryFilter';
 import { SearchBar } from './SearchBar';
 
-const categories: Category[] = ['Chargers', 'Adapters', 'Cables', 'Audio', 'Accessories'];
+const categories: Category[] = ['Chargers', 'Adapters', 'Cables', 'Audio', 'Accessories', 'Gaming'];
 
 export function Catalog() {
   const [searchQuery, setSearchQuery] = useState('');

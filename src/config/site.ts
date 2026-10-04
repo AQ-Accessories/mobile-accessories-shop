@@ -16,6 +16,7 @@ export const siteConfig = {
     { name: 'Cables' as const, icon: '🔗', description: 'Durable data cables' },
     { name: 'Audio' as const, icon: '🎧', description: 'Earbuds, headphones & speakers' },
     { name: 'Accessories' as const, icon: '📱', description: 'Tripods & more' },
+    { name: 'Gaming' as const, icon: '🎮', description: 'Finger sleeves & more' },
   ],
   whyShopWithUs: [
     {

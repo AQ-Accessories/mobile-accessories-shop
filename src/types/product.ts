@@ -1,4 +1,4 @@
-export type Category = 'Chargers' | 'Adapters' | 'Cables' | 'Audio' | 'Accessories';
+export type Category = 'Chargers' | 'Adapters' | 'Cables' | 'Audio' | 'Accessories' | 'Gaming';
 
 export interface Product {
   id: string;

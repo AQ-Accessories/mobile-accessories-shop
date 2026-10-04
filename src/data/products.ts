@@ -213,6 +213,14 @@ const rawProducts: Omit<Product, 'slug' | 'video'>[] = [
     "category": "Chargers",
     "description": "Turbocharge your smartphone with the Qualcomm Quick Charge 3.0 black wall adapter. Engineered to deliver rapid, safe, and highly efficient power to all your compatible QC 3.0 electronic devices.",
     "imageFilename": "Qualcomm-QC3-Charger-Black.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Mobile Gaming Finger Sleeve",
+    "price": 200,
+    "category": "Gaming",
+    "description": "Improve your touchscreen accuracy and reduce friction with these dedicated mobile gaming finger sleeves. The black sleeves feature a lightweight, breathable design to keep your fingers primed for intense competitive gameplay.",
+    "imageFilename": "mobile-gaming-finger-sleeve.jpg"
   }
 ];
 
