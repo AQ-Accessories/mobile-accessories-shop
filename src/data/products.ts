@@ -245,6 +245,30 @@ const rawProducts: Omit<Product, 'slug' | 'video'>[] = [
     "category": "Accessories",
     "description": "A high-capacity 10,000mAh portable charger built for travel, featuring swift two-way fast charging and aircraft safety compliance. The device includes a convenient digital LED display on the front showing remaining battery levels at 25, 50, 75, and 100 percent.",
     "imageFilename": "10000mah-super-fast-charge-power-bank.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Universal Foldable Desktop Phone & Tablet Stand Holder",
+    "price": 850,
+    "category": "Accessories",
+    "description": "Keep your hands free with this premium Foldable Desktop Phone Holder! Featuring a multi-angle adjustable design and an extendable arm, it offers perfect ergonomic viewing for video calls and streaming. Its sturdy, non-slip base keeps your device securely in place, while the fully collapsible design folds completely flat for easy travel.",
+    "imageFilename": "foldable-desktop-phone-holder-stand-black.jpg"
+  },
+  {
+    "id": "32",
+    "name": "HP W10 Bluetooth & 2.4GHz Wireless Dual Mode Rechargeable Mouse",
+    "price": 1000,
+    "category": "Accessories",
+    "description": "Upgrade your workspace setup with the HP W10 Dual Mode Wireless Mouse! Designed for ultimate versatility, this sleek mouse features both Bluetooth and 2.4GHz wireless connectivity, allowing you to seamlessly connect and switch between multiple devices. It comes equipped with a built-in rechargeable battery, four responsive buttons, and eye-catching colorful highlight lighting. Perfect for hybrid work, office tasks, or gaming on the go.",
+    "imageFilename": "hp-w10-dual-mode-wireless-mouse-black.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Dell Wired USB Optical Mouse (Black)",
+    "price": 500,
+    "category": "Accessories",
+    "description": "Get reliable, everyday performance with the classic Dell Wired Optical Mouse. Featuring a simple plug-and-play USB connection, this mouse requires no software or batteries to operate. Its comfortable, ambidextrous shape fits perfectly in either hand, while the smooth optical tracking and responsive scroll wheel ensure effortless navigation through documents and web pages.",
+    "imageFilename": "dell-wired-usb-optical-mouse-black.jpg"
   }
 ];
 
