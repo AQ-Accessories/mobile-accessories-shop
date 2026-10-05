@@ -242,7 +242,7 @@ const rawProducts: Omit<Product, 'slug' | 'video'>[] = [
     "id": "30",
     "name": "10000mAh Super Fast Charge Power Bank",
     "price": 2000,
-    "category": "Audio",
+    "category": "Accessories",
     "description": "A high-capacity 10,000mAh portable charger built for travel, featuring swift two-way fast charging and aircraft safety compliance. The device includes a convenient digital LED display on the front showing remaining battery levels at 25, 50, 75, and 100 percent.",
     "imageFilename": "10000mah-super-fast-charge-power-bank.jpg"
   }
